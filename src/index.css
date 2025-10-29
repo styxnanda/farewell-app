@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Utility: Apply Playfair Display to headlines */
+.font-playfair {
+	font-family: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
